@@ -10,6 +10,13 @@ It includes:
 
 ---
 
+# 🚍 Mumbai Bus Delay Analysis
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sujaltankaria1--mumbai-bus-delay-analysis-using-hist-app-hpbtrn.streamlit.app)
+
+
+This project analyzes public transport delays in Mumbai using GPS data...
+
 ## 📂 Project Structure
 ```
 Mumbai/
@@ -86,13 +93,6 @@ The dataset `mumbai_bus_gps.csv` contains:
 - Streamlit app for quick insights
 
 ---
-
-# 🚍 Mumbai Bus Delay Analysis
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sujaltankaria1--mumbai-bus-delay-analysis-using-hist-app-hpbtrn.streamlit.app)
-
-
-This project analyzes public transport delays in Mumbai using GPS data...
 
 
 ## 📌 Author
