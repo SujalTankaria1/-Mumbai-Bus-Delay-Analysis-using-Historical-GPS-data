@@ -87,5 +87,12 @@ The dataset `mumbai_bus_gps.csv` contains:
 
 ---
 
+# 🚍 Mumbai Bus Delay Analysis
+
+[![Open in Streamlit](https://sujaltankaria1--mumbai-bus-delay-analysis-using-hist-app-hpbtrn.streamlit.app/)
+
+This project analyzes public transport delays in Mumbai using GPS data...
+
+
 ## 📌 Author
 Developed for **Public Transport Delay Analysis using Historical GPS Data**.
