@@ -1,0 +1,5 @@
+Pillow
+matplotlib
+pandas
+seaborn
+streamlit
